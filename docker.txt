@@ -1,0 +1,27 @@
+docker pull 
+
+docker container run     pull image
+
+--name mon-conteneur
+--detache
+--tty- -interactive -t -i
+--restart=alwyas
+
+--publish port ext:port int -p
+----------------------
+equipo prof
+
+sudo a
+
+ss --tcp --udp --listening
+
+
+ps -aux | grep miond -engics
+
+dpcker copntainer 
+---------------------------
+volumens
+
+point de montage 
+
+
